@@ -1,0 +1,14 @@
+{
+  "name": "Oursky_PreTest",
+  "version": "1.0.0",
+  "description": "oursky javascript answer",
+  "author": "Calvin Tsang <calvin.tsang.work@gmail.com>",
+  "main": "answer1.js",
+  "scripts": {
+    "start": "mocha ./test/"
+  },
+  "dependencies": {
+    "jsdoc": "^3.5.5",
+    "mocha": "^4.0.1"
+  }
+}
